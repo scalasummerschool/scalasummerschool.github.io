@@ -114,6 +114,19 @@ footer div img {
     margin: 0px auto;
 }
 
+.dark-bg {
+  background-color: #f4f4f4;
+}
+
+a {
+    color: #404040;
+}
+
+a:hover,
+a:active {
+    color: #e67e22;
+}
+
 /* ########## Classes: Navigation */
 /* ########## Header */
 .main-nav {
@@ -244,10 +257,6 @@ footer div img {
 }
 
 /* ########## Organizers Section */
-.whoarewe-section {
-    background-color: #f4f4f4;
-}
-
 .biography {
     width: 70%;
     margin-left: 15%;
@@ -266,13 +275,7 @@ footer div img {
 }
 
 .social-icon {
-    color:  #404040;
     font-size: 130%;
-}
-
-.social-icon:hover,
-.social-icon:active {
-    color: #e67e22;
 }
 
 /* ########## Contact Section */
