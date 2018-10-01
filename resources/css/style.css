@@ -222,6 +222,20 @@ a:active {
 }
 
 /* ########## About Section */
+.final-repo-link {
+    text-align: center;    
+}
+
+.final-repo-link:after {
+    display: block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 60%;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
 .long-text {
     margin-left: 15%;
     margin-bottom: 50px;
